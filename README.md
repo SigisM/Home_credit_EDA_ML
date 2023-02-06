@@ -1,4 +1,4 @@
-# Home credit. EDA + ML
+# Home credit. EDA + ML. Capstone Project
 
 This is a Exploratory Data Analysis of European Football dataset. A capstone project for Data Science Course<br />
 

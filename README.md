@@ -5,7 +5,7 @@ This is a Exploratory Data Analysis of European Football dataset. A capstone pro
 
 ## Dataset
 
-Dataset is taken from [here](https://storage.googleapis.com/341-home-credit-default/home-credit-default-risk.zip)
+Dataset is taken from [here](https://storage.googleapis.com/341-home-credit-default/home-credit-default-risk.zip) also may be found on [Kaggle](https://www.kaggle.com/c/home-credit-default-risk/data)
 
 
 

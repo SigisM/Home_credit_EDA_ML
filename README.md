@@ -11,8 +11,8 @@ Dataset is taken from [here](https://storage.googleapis.com/341-home-credit-defa
 
 ### Content
 
-Practice translating business requirements into data science tasks.
-Practice performing EDA.
-Practice applying statistical inference procedures.
-Practice using machine learning to solve business problems.
-Practice deploying multiple machine learning models.
+* Practice translating business requirements into data science tasks.
+* Practice performing EDA.
+* Practice applying statistical inference procedures.
+* Practice using machine learning to solve business problems.
+* Practice deploying multiple machine learning models.
